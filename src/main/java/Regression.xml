@@ -1,0 +1,7 @@
+<suite name="Suite1">
+  <test name="Test1">
+  <classes>
+  <class>GitHubPkg.display</class>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
